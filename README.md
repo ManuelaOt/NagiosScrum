@@ -1,1 +1,6 @@
 # NagiosScrum
+# 1  Las herramientas de monitorización de servidores.
+## 1.1  Introducción general.
+[Introducción](./introduccion_general.md)
+# 2  La herramienta NAGIOS
+## 2.1  Historia
