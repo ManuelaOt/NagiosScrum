@@ -11,3 +11,4 @@ Además, permite buscar y analizar todo tipo de datos de registro para facilitar
 
 [Lista de soluciones de Nagios](https://https://www.nagios.com/solutions/)
 
+## [Volver al Inicio.](../README.md)
