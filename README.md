@@ -10,7 +10,7 @@
 # 4 Instalación de NAGIOS
 ## 4.1 Servidor Nagios
 ## 4.2 Clientes Nagios
-### 4.2.1 Windows 2016
+###  [4.2.1 Windows 2016](./md/4_2_1cliente_win_2016.md)
 ### 4.2.2 Debian Apache2
 ### 4.2.3Debian MariaDB
 # 5 Pruebas
