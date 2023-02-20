@@ -29,3 +29,4 @@ Una vez en sus propiedades deberemos irnos a Inicio de sesión y permitir que la
 ![img6](./Capturas/cliwin2016/Screenshot_6.png)
 
 ## [Volver al Inicio.](../README.md)
+
