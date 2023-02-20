@@ -95,3 +95,5 @@ Dependiendo del esquema de red que tengamos será necesario o no aplicar reglas 
 - ICMP			(PING)
 
 Realmente los imprescindibles son el SNMP, el SSH y el PING, pero muchos de los pluggins que se pueden instalar en Nagios requieren de los puertos añadidos de la lista.
+
+## [Volver al Inicio.](../README.md)
