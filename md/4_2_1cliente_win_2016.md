@@ -27,3 +27,4 @@ Cuando estemos en servicios buscaremos el servicio NSClient++ y nos iremos a sus
 Una vez en sus propiedades deberemos irnos a Inicio de sesión y permitir que la cuenta local inicie y que el servicio pueda interactuar con el sistema
 
 ![img6](./Capturas/cliwin2016/Screenshot_6.png)
+
