@@ -11,6 +11,7 @@
 ## [4.1 Servidor Nagios](./md/4_1Servidor_Nagios.md)
 ## 4.2 Clientes Nagios
 ###  [4.2.1 Windows 2016](./md/4_2_1cliente_win_2016.md)
-### 4.2.2 Debian Apache2
-### 4.2.3Debian MariaDB
+### [4.2.2 Debian](./md/4.2.2_Instalaci%C3%B3n%20en%20Linux.md)
+### [4.2.3 Debian Apache](./md/4.2.3_DebianApache.md)
+### [4.2.4 Debian MariaDB](./md/4.2.4_MariadbDebian.md)
 # 5 Pruebas
