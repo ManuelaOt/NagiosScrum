@@ -9,13 +9,13 @@ Descargamos y descomprimimos Nagios-Core desde el siguiente enlace de [git]( htt
 `curl -SL https://github.com/NagiosEnterprises/nagioscore/releases/download/nagios-4.4.6/nagios-4.4.6.tar.gz | tar -xzf - `
 
 Procedemos a instalar Nagios-Core
+~~~
+cd nagios-4.4.6 
 
-`cd nagios-4.4.6 `
+./configure
 
-`./configure`
-
-`sudo make all`
-
+sudo make all
+~~~
 Ahora procederemos a crear los usuarios del grupo
 
 `sudo make install-group-users`
